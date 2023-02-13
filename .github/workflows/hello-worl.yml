@@ -1,6 +1,6 @@
 name: Helle world workflow
 
-on: pull
+on: pull_request
 
 jobs:
   hello-world:
