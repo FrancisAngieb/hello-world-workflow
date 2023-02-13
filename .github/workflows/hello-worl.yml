@@ -1,6 +1,6 @@
 name: Helle world workflow
 
-on: push
+on: pull
 
 jobs:
   hello-world:
