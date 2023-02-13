@@ -10,5 +10,5 @@ jobs:
       - name: print hello world
         run: echo "Hello worl" && sleep 30 
       - name: print hello hello newera solution
-        run: echo "Hello newera solution"     
+        run: echo "Hello newera solution" && echo "This is a pull request"   
         
